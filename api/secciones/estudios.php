@@ -7,7 +7,7 @@
     <article class="timeline-item">
         <div class="date">Formación universitaria</div>
         <h3>Universidad Nacional del Santa</h3>
-        <p style="color:var(--muted);margin:0">Realicé mis estudios universitarios en la Universidad Nacional del Santa. Aquí puedes añadir tu carrera profesional, fechas de ingreso y egreso, cursos destacados y logros académicos.</p>
+        <p style="color:var(--muted);margin:0">Realicé mis estudios universitarios en la Universidad Nacional del Santa. Ingenieria de Sistemas e Informática, ingrese en el año 2021, cursos cursos de programacion, destaque en PHP.</p>
     </article>
     <article class="timeline-item">
         <div class="date">Aprendizaje continuo</div>
