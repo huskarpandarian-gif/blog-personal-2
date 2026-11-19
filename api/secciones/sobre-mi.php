@@ -11,4 +11,4 @@
     <article class="info-card"><div class="icon">🧠</div><h3>Me interesa</h3><p>El desarrollo web, la ingeniería de software, las bases de datos, la nube y la inteligencia artificial.</p></article>
     <article class="info-card"><div class="icon">🌱</div><h3>Mi filosofía</h3><p>Aprender haciendo, mantener la curiosidad y convertir cada experiencia en una oportunidad de crecimiento.</p></article>
 </div>
-<p style="color:var(--muted);font-size:13px;margin-top:22px">Esta página es editable: reemplaza estos textos por tu historia, tus intereses y tus metas personales.</p>
+
