@@ -14,4 +14,4 @@
     <article class="info-card"><div class="icon">📂</div><h3>Gestión documental</h3><p>Conocimiento del flujo de documentos, expedientes y trámites administrativos.</p></article>
     <article class="info-card"><div class="icon">📊</div><h3>Información y registros</h3><p>Experiencia consultando información en registros físicos y archivos digitales.</p></article>
 </div>
-<p style="color:var(--muted);font-size:13px;margin-top:20px">Puedes ampliar esta sección con tus funciones, fechas, proyectos y otros lugares donde hayas trabajado.</p>
+
